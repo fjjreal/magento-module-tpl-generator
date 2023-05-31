@@ -1,0 +1,2 @@
+# module {{ .mname }}
+# author {{ .author }}

@@ -1,0 +1,7 @@
+{{ .subject }}
+
+{{ .header }}
+
+{{ .content }}
+
+{{ .footer }}
